@@ -26,4 +26,4 @@ Run `bundle exec rake install` to install this gem onto your local machine. To r
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/active_handle.
+Bug reports and pull requests are welcome on GitHub at https://github.com/katatsu12/active_handle.
